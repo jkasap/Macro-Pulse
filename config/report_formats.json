@@ -33,7 +33,7 @@
           "title": "환율",
           "category": "exchange",
           "items": ["USD/KRW", "JPY/KRW"]
-        }
+        },
         {
           "title": "암호화폐",
           "category": "crypto",
