@@ -5,8 +5,8 @@ on:
     # BEGIN GENERATED SCHEDULES
     # KR | 15:40 KST | 06:40 UTC | Mon-Fri
     - cron: '40 06 * * 1-5'
-    # US | 08:00 KST | 22:00 UTC | Tue-Sat KST
-    - cron: '00 22 * * 1-5'
+    # US | 08:00 KST | 23:00 UTC | Tue-Sat KST
+    - cron: '00 23 * * 1-5'
     # END GENERATED SCHEDULES
   workflow_dispatch:
 
