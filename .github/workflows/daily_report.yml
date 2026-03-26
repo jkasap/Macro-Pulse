@@ -4,7 +4,7 @@ on:
   schedule:
     # BEGIN GENERATED SCHEDULES
     # KR | 17:00 KST | 08:00 UTC | Mon-Fri
-    - cron: '00 08 * * 1-5'
+    - cron: '45 07 * * 1-5'
     # US | 06:30 KST | 21:30 UTC | Tue-Sat KST
     - cron: '30 21 * * 1-5'
     # END GENERATED SCHEDULES
